@@ -7,5 +7,3 @@ def is_palindrome(s):
 # использование
 print(is_palindrome('лепсспел')) # True
 print(is_palindrome('helloworld')) # False
-
-print("omega")
