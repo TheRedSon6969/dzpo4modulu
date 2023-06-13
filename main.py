@@ -3,7 +3,6 @@ def is_palindrome(s):
         return True
     else:
         return False
-
 # использование
 print(is_palindrome('лепсспел')) # True
 print(is_palindrome('helloworld')) # False
